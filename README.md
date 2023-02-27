@@ -2,6 +2,8 @@
 
 > 参考链接：https://eli.thegreenplace.net/2017/concurrent-servers-part-1-introduction/
 
+![Image](serverconcurrency.png)
+
 ## sequential server
 
 ### server同一时刻只处理一个client请求，其他client请求等待
